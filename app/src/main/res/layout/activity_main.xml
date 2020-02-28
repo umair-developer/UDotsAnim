@@ -10,7 +10,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        app:dot_radius="5dp"
+        app:dot_radius="18dp"
+        app:color_switch_duration="5"
         app:color_array="@array/dot_colors"/>
 
 </RelativeLayout>
