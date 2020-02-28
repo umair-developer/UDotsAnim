@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="UDotsAnim">
+        <attr name="dot_radius" format="dimension" />
+        <attr name="color_array" format="reference" />
+        <attr name="left_dot_color" format="color" />
+        <attr name="right_dot_color" format="color" />
+        <attr name="color_switch_duration" format="integer" />
+        <attr name="dots_animation_duration" format="integer" />
+        <attr name="stop_after_duration" format="integer" />
+    </declare-styleable>
+</resources>
