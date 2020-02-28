@@ -51,8 +51,12 @@ Add the UDotsAnim in your XML and enjoy.
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        app:dot_radius="18dp"
+        app:dot_radius="10dp"
         app:color_switch_duration="5"
+        app:dots_animation_duration="1000"
+        app:left_dot_color="@color/colorPrimary"
+        app:right_dot_color="@color/colorAccent"
+        app:stop_after_duration="5000"
         app:color_array="@array/dot_colors"/>
 ```
 
