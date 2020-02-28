@@ -117,7 +117,7 @@ That's it... :-)
 
 ## Contributions
 
-Your contributions are most welcomed. Do let me know if you find any kind of issue while using this file. Please open an issue to discuss that problem. Thanks
+Your contributions are most welcomed. Do let me know if you find any kind of issue while using this library. Please open an issue to discuss that problem. Thanks
 
 ## Auther
 
