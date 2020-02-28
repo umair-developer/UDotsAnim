@@ -26,7 +26,8 @@ First of all,
 
 Add the maven in your project level build.gradle
 
-```allprojects {
+```
+allprojects {
     repositories {
         maven { url "https://jitpack.io"}
     }
@@ -36,7 +37,8 @@ Add the maven in your project level build.gradle
 
 Add the dependency in your app level build.gradle
 
-```dependencies {
+```
+dependencies {
 	        implementation 'com.github.umair-developer:UDotsAnim:0.1.0'
 	}
 ```
@@ -44,7 +46,8 @@ Add the dependency in your app level build.gradle
 
 Add the UDotsAnim in your XML and enjoy.
 
-``` <com.uproxone.dotloader.UDotsAnim
+```
+<com.uproxone.dotloader.UDotsAnim
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -93,7 +96,8 @@ Pass the array of colors to swhitch the color after specific time. The default v
 
 You can store this array in Res > value > color.xml Like
 
-``` <array name="dot_colors">
+``` 
+<array name="dot_colors">
         <item>#222222</item>
         <item>#03A9F4</item>
         <item>#E65100</item>
