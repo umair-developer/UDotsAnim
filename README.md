@@ -1,4 +1,4 @@
-## UDotsAnim
+## UDotsAnim (TikTok Like Loader)
 
 UDotsAnim is a new kind of activity indicator with some awesome animations. Try this new Loader in your projects and enhance the UI experience.
 
